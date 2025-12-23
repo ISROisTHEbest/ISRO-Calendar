@@ -11,7 +11,7 @@ calendar.extra.append(ContentLine(name="REFRESH-INTERVAL;VALUE=DURATION", value=
 
 base_url = 'https://ll.thespacedevs.com/2.3.0/'
 
-data = requests.get(base_url+'launches/upcoming', params={'mission__agency__ids':31}).json()
+data = requests.get(base_url+'launches/upcoming', params={'format':'json', 'mission__agency__ids':31}).json()
 
 for launch in data['results']:
     event = Event()
