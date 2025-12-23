@@ -11,7 +11,7 @@ calendar.extra.append(ContentLine(name="REFRESH-INTERVAL;VALUE=DURATION", value=
 
 base_url = 'https://ll.thespacedevs.com/2.3.0/'
 
-data = requests.get(base_url+'launches/upcoming', params={'format':'json', 'mission__agency__ids':31}).json()
+data = requests.get(base_url+'launches/upcoming', params={'format':'json', 'lsp_id':'31, 1051'}).json()
 
 for launch in data['results']:
     event = Event()
@@ -23,7 +23,7 @@ for launch in data['results']:
     else:
         event.begin = str(launch['window_start']).replace('T', ' ').replace('Z', '')
         event.make_all_day()
-    event.description = launch['rocket']['configuration']['full_name']
+    event.description = f'[{launch['launch_service_provider']['name']}]\n{launch['rocket']['configuration']['full_name']}\n\n{launch['mission']['description']}'
     event.location = launch['pad']['name']
 
     calendar.events.add(event)
