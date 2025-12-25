@@ -28,13 +28,6 @@ SUMMARY:GSLV Mk II | GISAT-1A (EOS-05)
 UID:17d0ec68-f466-4916-9dc5-16123eda6484
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260131
-DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nThis is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit\, the system will be operated by the Indian government.
-LOCATION:Satish Dhawan Space Centre Second Launch Pad
-SUMMARY:GSLV Mk II | IRNSS-1L (NVS-03)
-UID:20d5676e-111b-40e3-8923-b218c3665ca2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
 DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
@@ -63,12 +56,18 @@ SUMMARY:Gaganyaan Abort Test Booster | TV-D2
 UID:05864985-e660-4723-b489-32a78d4b53fc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[Indian Space Research Organization]\nLaunch Vehicle Mark-3 (GSLV Mk III)\n\nAST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites\, required to achieve 24/7 continuous cellular broadband service coverage in the United States\, with beams designed to support a capacity of up to 40 MHz\, enabling peak data transmission speeds up to 120 Mbps\, supporting voice\, full data and video applications. The Block 2 BlueBirds\, featuring as large as 2400 square foot communications arrays\, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\n\nThis launch will feature a single satellite.
-DTEND:20251224T065000Z
+DTSTART;VALUE=DATE:20260131
+DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nThis is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit\, the system will be operated by the Indian government.
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
-DTSTART:20251224T025000Z
-SUMMARY:LVM-3 | BlueBird Block 2 #1
-UID:1c040590-5157-4850-86e2-f878dd7d49d4
+SUMMARY:GSLV Mk II | IRNSS-1L (NVS-03)
+UID:20d5676e-111b-40e3-8923-b218c3665ca2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II
+LOCATION:Satish Dhawan Space Centre Second Launch Pad
+SUMMARY:GSLV | IDRSS-1
+UID:c101b9da-2165-4d7b-aa9e-12a965ef8cd2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
