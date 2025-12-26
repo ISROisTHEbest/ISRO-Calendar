@@ -14,9 +14,9 @@ UID:90232cff-15ff-4755-8a56-4ed544767665
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Indian Space Research Organization]\nPSLV-DL\n\nSmall Earth observation satellite from NewSpace India Limited (NSIL) for an "Indian strategic user"\, details TBD.\n\nThis launch will also carry 18 other ride-share payloads.
-DTEND:20260105T081500Z
+DTEND:20260110T081500Z
 LOCATION:Satish Dhawan Space Centre First Launch Pad
-DTSTART:20260105T041500Z
+DTSTART:20260110T041500Z
 SUMMARY:PSLV-DL | EOS-N1 and others
 UID:520a0927-088f-4273-a7ea-eedb09965d89
 END:VEVENT
