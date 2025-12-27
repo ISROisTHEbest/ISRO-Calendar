@@ -21,11 +21,19 @@ SUMMARY:PSLV-DL | EOS-N1 and others
 UID:520a0927-088f-4273-a7ea-eedb09965d89
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:[Indian Space Research Organization]\nPSLV-DL\n\nSmall Earth observation satellite from NewSpace India Limited (NSIL) for an "Indian strategic user"\, details TBD.\n\nThis launch will also carry 18 other ride-share payloads.
+DTEND:20260110T081500Z
+LOCATION:Satish Dhawan Space Centre First Launch Pad
+DTSTART:20260110T041500Z
+SUMMARY:PSLV-DL | EOS-N1 and others
+UID:520a0927-088f-4273-a7ea-eedb09965d89
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
-DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nGISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent\, quick monitoring of natural hazards and disaster.
+DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
-SUMMARY:GSLV Mk II | GISAT-1A (EOS-05)
-UID:17d0ec68-f466-4916-9dc5-16123eda6484
+SUMMARY:GSLV Mk II | GSAT-32
+UID:0cf92611-82a8-4095-a0b4-dda2e74b1fff
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
@@ -36,10 +44,10 @@ UID:20d5676e-111b-40e3-8923-b218c3665ca2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
-DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II
+DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nGISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent\, quick monitoring of natural hazards and disaster.
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
-SUMMARY:GSLV Mk II | GSAT-32
-UID:0cf92611-82a8-4095-a0b4-dda2e74b1fff
+SUMMARY:GSLV Mk II | GISAT-1A (EOS-05)
+UID:17d0ec68-f466-4916-9dc5-16123eda6484
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
@@ -69,6 +77,13 @@ LOCATION:Satish Dhawan Space Centre Second Launch Pad
 DTSTART:20251224T025000Z
 SUMMARY:LVM-3 | BlueBird Block 2 #1
 UID:1c040590-5157-4850-86e2-f878dd7d49d4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II
+LOCATION:Satish Dhawan Space Centre Second Launch Pad
+SUMMARY:GSLV | IDRSS-1
+UID:c101b9da-2165-4d7b-aa9e-12a965ef8cd2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
