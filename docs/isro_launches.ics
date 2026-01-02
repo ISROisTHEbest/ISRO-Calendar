@@ -22,17 +22,17 @@ UID:520a0927-088f-4273-a7ea-eedb09965d89
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
-DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nGISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent\, quick monitoring of natural hazards and disaster.
-LOCATION:Satish Dhawan Space Centre Second Launch Pad
-SUMMARY:GSLV Mk II | GISAT-1A (EOS-05)
-UID:17d0ec68-f466-4916-9dc5-16123eda6484
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
 DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
 SUMMARY:GSLV Mk II | GSAT-32
 UID:0cf92611-82a8-4095-a0b4-dda2e74b1fff
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nGISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent\, quick monitoring of natural hazards and disaster.
+LOCATION:Satish Dhawan Space Centre Second Launch Pad
+SUMMARY:GSLV Mk II | GISAT-1A (EOS-05)
+UID:17d0ec68-f466-4916-9dc5-16123eda6484
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
