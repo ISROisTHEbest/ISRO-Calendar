@@ -7,7 +7,7 @@ calendar_path = 'docs/isro_launches.ics'
 base_url = 'https://ll.thespacedevs.com/2.3.0/'
 
 if os.path.exists(calendar_path):
-    with open(calendar_path, 'r') as file:
+    with open(calendar_path, 'r', encoding='utf-8', errors='replace') as file:
         calendar = Calendar(file.read())
 else:
     calendar = Calendar()
@@ -42,6 +42,6 @@ for launch in data['results']:
 
     calendar.events.add(event)
 
-with open('docs/isro_launches.ics', 'w') as file:
+with open('docs/isro_launches.ics', 'w', encoding='utf-8') as file:
     file.writelines(calendar.serialize_iter())
 

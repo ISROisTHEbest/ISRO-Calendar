@@ -22,13 +22,6 @@ UID:520a0927-088f-4273-a7ea-eedb09965d89
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
-DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nGISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent\, quick monitoring of natural hazards and disaster.
-LOCATION:Satish Dhawan Space Centre Second Launch Pad
-SUMMARY:GSLV Mk II | GISAT-1A (EOS-05)
-UID:17d0ec68-f466-4916-9dc5-16123eda6484
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
 DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
 SUMMARY:GSLV Mk II | GSAT-32
@@ -36,7 +29,14 @@ UID:0cf92611-82a8-4095-a0b4-dda2e74b1fff
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
-DESCRIPTION:[Indian Space Research Organization]\nPSLV\n\nTDS-01 (Technology Demonstration Satellite-01) is an Indian geostationary orbit technology demonstration satellite carrying payloads for the Indian Space Research Organisation (ISRO)’s Institute of Plasma Research\, Gandhinagar and the CSIR-CEERI\, Pilani. \n\nPayloads to be tested included an internally developed 300 mN electric powered thrusters\, atomic clocks\, travelling wave tube amplifiers (TWTA) & a quantum communication suite (QuTDS).
+DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nGISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent\, quick monitoring of natural hazards and disaster.
+LOCATION:Satish Dhawan Space Centre Second Launch Pad
+SUMMARY:GSLV Mk II | GISAT-1A (EOS-05)
+UID:17d0ec68-f466-4916-9dc5-16123eda6484
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:[Indian Space Research Organization]\nPSLV\n\nTDS-01 (Technology Demonstration Satellite-01) is an Indian geostationary orbit technology demonstration satellite carrying payloads for the Indian Space Research Organisation (ISRO)â€™s Institute of Plasma Research\, Gandhinagar and the CSIR-CEERI\, Pilani. \n\nPayloads to be tested included an internally developed 300 mN electric powered thrusters\, atomic clocks\, travelling wave tube amplifiers (TWTA) & a quantum communication suite (QuTDS).
 LOCATION:Satish Dhawan Space Centre First Launch Pad
 SUMMARY:PSLV | TDS-01
 UID:b5a9bccb-30d7-4af6-8ad1-fabb563be53c
@@ -71,7 +71,7 @@ UID:c101b9da-2165-4d7b-aa9e-12a965ef8cd2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
-DESCRIPTION:[Indian Space Research Organization]\nSSLV\n\nSpace Machines Company (SMC)'s second Optimus Orbital Transfer Vehicle (OTV)\, will launch on a mission designated Space MAITRI (Mission for Australia-India’s Technology\, Research and Innovation). The mission will focus on debris management and sustainability\, and will significantly advance Australia’s domestic space industry by combining Australian spacecraft capabilities with India's launch expertise.\n\nAfter separation\, Optimus will perform a series of propulsive on-orbit maneuvers to inspect a space object in close proximity. It will then spend several months on orbit examining space debris to demonstrate affordable and accessible space sustainability technologies.
+DESCRIPTION:[Indian Space Research Organization]\nSSLV\n\nSpace Machines Company (SMC)'s second Optimus Orbital Transfer Vehicle (OTV)\, will launch on a mission designated Space MAITRI (Mission for Australia-Indiaâ€™s Technology\, Research and Innovation). The mission will focus on debris management and sustainability\, and will significantly advance Australiaâ€™s domestic space industry by combining Australian spacecraft capabilities with India's launch expertise.\n\nAfter separation\, Optimus will perform a series of propulsive on-orbit maneuvers to inspect a space object in close proximity. It will then spend several months on orbit examining space debris to demonstrate affordable and accessible space sustainability technologies.
 LOCATION:Satish Dhawan Space Centre First Launch Pad
 SUMMARY:SSLV | Space MAITRI
 UID:7bb96f12-250e-4e80-84ad-53f52f710bb7
