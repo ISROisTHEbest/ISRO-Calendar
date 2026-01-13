@@ -108,4 +108,11 @@ DESCRIPTION:[Indian Space Research Organization]\nSSLV\n\nSpace Machines C
  es.
 LOCATION:Satish Dhawan Space Centre First Launch Pad
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GSLV | IDRSS-2
+DTSTART;VALUE=DATE:20261231
+UID:220e6d9f-33dc-4533-8a48-535ba4c559e2
+DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II
+LOCATION:Satish Dhawan Space Centre Second Launch Pad
+END:VEVENT
 END:VCALENDAR
