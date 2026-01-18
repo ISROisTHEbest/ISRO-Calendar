@@ -58,7 +58,7 @@ LOCATION:Satish Dhawan Space Centre First Launch Pad
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LVM-3 | Gaganyaan-1
-DTSTART;VALUE=DATE:20260131
+DTSTART;VALUE=DATE:20260331
 UID:dfac5ab7-7017-454f-b6cf-eeed277a97b5
 DESCRIPTION:[Indian Space Research Organization]\nLaunch Vehicle Mark-3 (G
  SLV Mk III)\n\nFirst uncrewed orbital test flight of the Gaganyaan capsule
@@ -75,7 +75,7 @@ LOCATION:Satish Dhawan Space Centre First Launch Pad
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GSLV Mk II | IRNSS-1L (NVS-03)
-DTSTART;VALUE=DATE:20260131
+DTSTART;VALUE=DATE:20261231
 UID:20d5676e-111b-40e3-8923-b218c3665ca2
 DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nThis is a
   replacement satellite for the Indian Regional Navigation Satellite System
