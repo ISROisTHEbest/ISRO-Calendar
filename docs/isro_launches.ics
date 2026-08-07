@@ -58,7 +58,7 @@ LOCATION:Satish Dhawan Space Centre First Launch Pad
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LVM-3 | Gaganyaan-1
-DTSTART;VALUE=DATE:20260930
+DTSTART;VALUE=DATE:20261231
 UID:dfac5ab7-7017-454f-b6cf-eeed277a97b5
 DESCRIPTION:[Indian Space Research Organization]\nLaunch Vehicle Mark-3 (G
  SLV Mk III)\n\nFirst uncrewed orbital test flight of the Gaganyaan capsule
@@ -140,5 +140,26 @@ UID:a8c191e1-b231-4b2e-aefd-5e8ad55c7a82
 DESCRIPTION:[Payload Aerospace S.L.]\nMiura 5\n\nFirst flight of the Miura
   5 launch vehicle.
 LOCATION:Diamant Launch Area
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSLV | ConnectedCosmos
+DTSTART;VALUE=DATE:20261231
+UID:9c377972-9088-401f-bd63-c324c6941981
+DESCRIPTION:[Indian Space Research Organization]\nPSLV\n\nConnectedCosmos 
+ is Open Cosmos' secure LEO broadband (Ka-band) constellation designed to p
+ rovide independent and resilient connectivity infrastructure for Europe an
+ d the world\, using high-priority Ka-band spectrum filings by the Principa
+ lity of Liechtenstein.
+LOCATION:Satish Dhawan Space Centre First Launch Pad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSLV | RISAT-2A
+DTSTART;VALUE=DATE:20261231
+UID:36c05136-e9c5-4d50-ae8e-8a2d38710071
+DESCRIPTION:[Indian Space Research Organization]\nPSLV\n\nRISAT-2A is the 
+ third in the series of radar imaging RISAT satellites. The satellite carri
+ es a sophisticated synthetic aperture radar that operates at 5.35 GHz in C
+  band.
+LOCATION:Satish Dhawan Space Centre First Launch Pad
 END:VEVENT
 END:VCALENDAR
