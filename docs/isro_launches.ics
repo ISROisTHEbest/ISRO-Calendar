@@ -41,7 +41,8 @@ UID:17d0ec68-f466-4916-9dc5-16123eda6484
 DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nGISAT-1A 
  (GEO Imaging Satellite) is an Indian earth observing satellite operating f
  rom geostationary orbit to facilitate continuous observation of Indian sub
- -continent\, quick monitoring of natural hazards and disaster.
+ -continent\, quick monitoring of natural hazards and disaster.\n\nEOS-05/G
+ ISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
 END:VEVENT
 BEGIN:VEVENT
@@ -76,7 +77,7 @@ LOCATION:Satish Dhawan Space Centre First Launch Pad
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GSLV Mk II | IRNSS-1L (NVS-03)
-DTSTART;VALUE=DATE:20260930
+DTSTART;VALUE=DATE:20261231
 UID:20d5676e-111b-40e3-8923-b218c3665ca2
 DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nThis is a
   replacement satellite for the Indian Regional Navigation Satellite System
