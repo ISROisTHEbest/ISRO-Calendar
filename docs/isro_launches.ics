@@ -27,10 +27,14 @@ DESCRIPTION:[Indian Space Research Organization]\nPSLV-DL\n\nSmall Earth o
 LOCATION:Satish Dhawan Space Centre First Launch Pad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GSLV Mk II | GSAT-32
+SUMMARY:LVM-3 | GSAT-32
 DTSTART;VALUE=DATE:20261231
 UID:0cf92611-82a8-4095-a0b4-dda2e74b1fff
-DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II
+DESCRIPTION:[Indian Space Research Organization]\nLaunch Vehicle Mark-3 (G
+ SLV Mk III)\n\nGSAT-32 is a geostationary communications satellite for the
+  Indian Space Research Organization (ISRO). The spacecraft is a replacemen
+ t for GSAT-6A that failed before reaching geostationary orbit after launch
+  in 2018.
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
 END:VEVENT
 BEGIN:VEVENT
@@ -87,10 +91,15 @@ DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nThis is a
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GSLV | IDRSS-1
+SUMMARY:GSLV Mk II | IDRSS-1
 DTSTART;VALUE=DATE:20261231
 UID:c101b9da-2165-4d7b-aa9e-12a965ef8cd2
-DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II
+DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nThe India
+ n Data Relay Satellite System (IDRSS) is a planned system of 2 geostationa
+ ry data relay satellites by the Indian Space Research Organization (ISRO) 
+ for data relaying to and from other Indian satellites and launch vehicles 
+ to the ground\, including supporting future Indian Human Spaceflight missi
+ ons with the Gaganyaan spacecraft.
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
 END:VEVENT
 BEGIN:VEVENT
@@ -111,10 +120,15 @@ DESCRIPTION:[Indian Space Research Organization]\nSSLV\n\nSpace Machines C
 LOCATION:Satish Dhawan Space Centre First Launch Pad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GSLV | IDRSS-2
+SUMMARY:GSLV Mk II | IDRSS-2
 DTSTART;VALUE=DATE:20261231
 UID:220e6d9f-33dc-4533-8a48-535ba4c559e2
-DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II
+DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nThe India
+ n Data Relay Satellite System (IDRSS) is a planned system of 2 geostationa
+ ry data relay satellites by the Indian Space Research Organization (ISRO) 
+ for data relaying to and from other Indian satellites and launch vehicles 
+ to the ground\, including supporting future Indian Human Spaceflight missi
+ ons with the Gaganyaan spacecraft.
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
 END:VEVENT
 BEGIN:VEVENT
